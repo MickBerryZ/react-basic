@@ -1,0 +1,12 @@
+.Outcome {
+    color: red;
+    border-right: 5px solid red;
+    background-color: lightpink;
+}
+
+.Income {
+    color: green;
+    border-right: 5px solid green;
+    background-color: lightcyan;
+
+}
